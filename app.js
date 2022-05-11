@@ -30,7 +30,7 @@ const playSound = (keyCode) =>{
   /*const soundList = getSounds('/sound');
   console.log(soundList);*/
   
-  const soundList = ['/sound/bass.mp3','/sound/hat.mp3','/sound/keg.mp3','/sound/longHat.mp3','/sound/shoot.mp3'];
+  const soundList = ['./sound/bass.mp3','./sound/hat.mp3','./sound/keg.mp3','./sound/longHat.mp3','./sound/shoot.mp3'];
   const colorList = [];
   const board = document.querySelector('#board');
   
