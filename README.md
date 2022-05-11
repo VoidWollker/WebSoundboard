@@ -22,4 +22,4 @@ All sounds are in the sound folder. The button color is randomly generated when 
 
 ## Demo
 
-https://voidwollker.github.io/Web-Soundboard/
+https://voidwollker.github.io/WebSoundboard/
